@@ -7,10 +7,12 @@
   "author": "Amar Kisoensingh <amar@kisoensingh.sh>",
   "scripts": {
     "start": "tsc -p tsconfig.json --watch",
+    "serve": "serve --cors",
     "build": "tsc -p tsconfig.json"
   },
   "devDependencies": {
     "@figma/plugin-typings": "^1.49.0",
+    "serve": "^14.0.1",
     "typescript": "*"
   }
 }
