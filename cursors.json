@@ -1,0 +1,39 @@
+{
+  "macos": {
+    "baseUrl": "https://raw.githubusercontent.com/UNRULYEON/figma-cursors/main/cursors/macos/",
+    "cursors": [
+      {
+        "name": "Arrow",
+        "file_name": "arrow.svg"
+      },
+      {
+        "name": "Grab",
+        "file_name": "grab.svg"
+      },
+      {
+        "name": "Grabbed",
+        "file_name": "grabbed.svg"
+      },
+      {
+        "name": "Help",
+        "file_name": "help.svg"
+      },
+      {
+        "name": "Move",
+        "file_name": "move.svg"
+      },
+      {
+        "name": "Text",
+        "file_name": "text.svg"
+      },
+      {
+        "name": "Zoom in",
+        "file_name": "zoom-in.svg"
+      },
+      {
+        "name": "Zoom out",
+        "file_name": "zoom-out.svg"
+      }
+    ]
+  }
+}
