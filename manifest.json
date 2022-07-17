@@ -2,10 +2,7 @@
   "name": "Cursors",
   "id": "1130255647418239802",
   "api": "1.0.0",
-  "main": "code.js",
-  "editorType": [
-    "figma",
-    "figjam"
-  ],
+  "main": "dist/code.js",
+  "editorType": ["figma", "figjam"],
   "ui": "ui.html"
 }
