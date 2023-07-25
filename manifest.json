@@ -1,8 +1,13 @@
 {
   "name": "Cursors",
-  "id": "1130255647418239802",
+  "id": "1265760076491365560",
   "api": "1.0.0",
-  "main": "dist/code.js",
+  "main": "dist/index.js",
+  "capabilities": [],
+  "enableProposedApi": false,
   "editorType": ["figma", "figjam"],
-  "ui": "ui.html"
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
 }
