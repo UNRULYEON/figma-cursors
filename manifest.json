@@ -3,10 +3,10 @@
   "id": "1265760076491365560",
   "api": "1.0.0",
   "main": "dist/index.js",
+  "ui": "dist/index.html",
   "capabilities": [],
   "enableProposedApi": false,
   "editorType": ["figma", "figjam"],
-  "ui": "ui.html",
   "networkAccess": {
     "allowedDomains": ["none"]
   }

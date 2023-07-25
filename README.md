@@ -11,4 +11,4 @@ Cursors for Figma
 
 1. Make sure you have the correct Node version
 2. Install dependencies with `yarn`
-3. Run `yarn watch` to build on save
+3. Run `yarn dev`
